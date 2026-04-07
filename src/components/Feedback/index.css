@@ -1,0 +1,55 @@
+/* Write your CSS code here. */
+.feedback-container {
+  background-color: #ffeeee;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  width: 400px;
+}
+
+.heading {
+  font-size: 20px;
+  color: #1e293b;
+  margin-bottom: 20px;
+}
+
+.emojis-list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.emojis-list-container li {
+  cursor: pointer;
+}
+
+.emojis-list-container img {
+  width: 50px;
+  height: 50px;
+}
+
+.emojis-list-container p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #475569;
+}
+
+/* Thank You Screen */
+.feedback img {
+  width: 60px;
+  margin-bottom: 15px;
+}
+
+.feedback p {
+  font-size: 14px;
+  color: #64748b;
+}
