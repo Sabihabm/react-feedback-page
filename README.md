@@ -5,7 +5,6 @@ A simple feedback page built using React. Users can submit their feedback by cli
 ## 🚀 Features
 
 * Submit feedback with emoji
-* Real-time display of submitted feedback
 * Basic form validation
 * Clean and responsive UI
 
